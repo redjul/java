@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Ensemble{
     private ArrayList<Integer> elements;
-    //test
+    
     private String name;
     private static int nbEsemble= 1; // static caract "généraleé, caract de la classe
     
