@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=hello
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=prem\ deux
+comment2.target=int\ addition(int,\ int)
+comment3.params=str1\ str2
+comment3.target=java.lang.String\ chaine(java.lang.String,\ java.lang.String)
+numComments=4

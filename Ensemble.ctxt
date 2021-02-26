@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ensemble
+comment1.params=
+comment1.target=Ensemble()
+comment1.text=\r\n\ Constructeur\ d'ensemble.\r\n\ Par\ d\u00E9faut,\ cr\u00E9e\ un\ ensemble\ vide.\r\n
+comment2.params=a
+comment2.target=void\ ajoute(int)
+comment3.params=
+comment3.target=int\ taille()
+comment4.params=i
+comment4.target=int\ getElement(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=e
+comment6.target=Ensemble\ union(Ensemble)
+comment7.params=e
+comment7.target=Ensemble\ inter(Ensemble)
+comment8.params=e
+comment8.target=boolean\ equals(Ensemble)
+numComments=9

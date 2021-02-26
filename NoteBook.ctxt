@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=NoteBook
+comment1.params=
+comment1.target=NoteBook()
+comment2.params=note
+comment2.target=void\ storeNote(java.lang.String)
+comment3.params=note
+comment3.target=void\ storeNote(int)
+comment4.params=
+comment4.target=int\ numberOfNotes()
+comment5.params=noteNumber
+comment5.target=void\ showNote(int)
+comment6.params=
+comment6.target=void\ addNote()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=suppV
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=void\ affiche(int[])
+comment3.params=
+comment3.target=void\ init()
+comment4.params=
+comment4.target=void\ initAuto()
+comment5.params=v
+comment5.target=boolean\ chercheEtSupprime(int)
+numComments=6
